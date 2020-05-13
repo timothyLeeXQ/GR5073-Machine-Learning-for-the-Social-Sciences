@@ -10,7 +10,7 @@ Course assignments and assessments focused on:
   - keras - Assignment 4 and Final Exam
 * Assessing students' understanding of Machine Learning techniques - Mid-term and Final Exam
 
-The course covered the underlying concepts of Machine Learning algorithms and associated techniques alongside practical demonstrations on applying these techniques using Python packages. Full details are provided in the [Course Syllabus](QMSS-Machine-Learning-Syllabus-Spring 2020.docx).
+The course covered the underlying concepts of Machine Learning algorithms and associated techniques alongside practical demonstrations on applying these techniques using Python packages. Full details are provided in the Course Syllabus.
 
 *Coverage:*
 * Supervised Learning
